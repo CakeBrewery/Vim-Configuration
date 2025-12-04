@@ -9,8 +9,6 @@ set ruler               " Always show current position
 
 " --- Visuals & Bell ---
 syntax on               " Enable syntax highlighting
-set visualbell          " Use visual bell instead of beeping
-set noerrorbells        " Don't beep
 set laststatus=2        " Always show status line
 set cmdheight=2         " Height of the command bar
 set scrolloff=8         " Keep 8 lines context when scrolling
